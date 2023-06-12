@@ -2,7 +2,7 @@
 
 /*
   Plugin Name: Customer Greeting Plugin
-  Description: A truly amazing plugin.
+  Description: A truly amazing plugin. Go to Settings > Greeting in the wp-admin for customization.
   Version: 1.0
   Author: Nitin Rajan
 */
